@@ -1,4 +1,5 @@
-#COVID-19 NLP
+# COVID-19 NLP
+
 * Clone repository & `cd covid19-nlp`
 * Install >=python3.7 & python virtual environment
 * `python -m venv venv`
